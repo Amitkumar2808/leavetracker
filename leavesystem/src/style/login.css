@@ -1,0 +1,14 @@
+.background{
+    background-image: url(../images/Cargo-Handlers.png);
+    background-size: cover;
+    height: 92vh;
+    margin-top: -70px;
+    background-repeat:no-repeat; 
+}
+.login{
+    margin: 10px;
+    padding-top: 8%;
+    margin-left: 25px;
+    padding-left: 0px;
+}
+

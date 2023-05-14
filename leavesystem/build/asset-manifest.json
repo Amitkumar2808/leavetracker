@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c137e03a.css",
+    "main.js": "/static/js/main.8aa79f8f.js",
+    "static/js/787.15ebd45e.chunk.js": "/static/js/787.15ebd45e.chunk.js",
+    "static/media/Cargo-Handlers.png": "/static/media/Cargo-Handlers.b54b331e10b397bd59a4.png",
+    "static/media/crossremain.png": "/static/media/crossremain.27ddf8832902fa05e611.png",
+    "static/media/righte.png": "/static/media/righte.aee44292c33f1e52a94a.png",
+    "static/media/pending.png": "/static/media/pending.3f1eaca24679478cacfd.png",
+    "static/media/clip1.png": "/static/media/clip1.f3d0dab808fe0944e20e.png",
+    "static/media/2126884.png": "/static/media/2126884.0e84d98ce95639b6a9c9.png",
+    "static/media/clip.png": "/static/media/clip.ad8f96178a54d6150467.png",
+    "index.html": "/index.html",
+    "main.c137e03a.css.map": "/static/css/main.c137e03a.css.map",
+    "main.8aa79f8f.js.map": "/static/js/main.8aa79f8f.js.map",
+    "787.15ebd45e.chunk.js.map": "/static/js/787.15ebd45e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c137e03a.css",
+    "static/js/main.8aa79f8f.js"
+  ]
+}
